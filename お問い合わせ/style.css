@@ -1,0 +1,26 @@
+.content{
+background-color:#fcc;
+width:1000px;
+margin:10px auto;
+padding:30px;
+}
+
+
+button{width:100%px;
+background-color:#2096F3;
+color:#fff;
+padding15px}
+
+input{
+border-bottom:1px Solid #d1d1d1;
+font-size:1.2em;
+width:30%;
+padding:8px;
+}
+
+textarea{
+font-size:1.2em;
+
+width:100%;
+
+}
